@@ -21,5 +21,5 @@ GOOS=windows GOARCH=386 go build -v .
 
 Build for 64bit architectures:
 ```bash
-GOOS=windows GOARCH=386 go build -v .
+GOOS=windows GOARCH=amd64 go build -v .
 ```
